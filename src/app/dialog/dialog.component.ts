@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class DialogComponent {
 
+  freshnessList =["Level1","Level2","Level3"]
+  constructor(){}
+
 }
