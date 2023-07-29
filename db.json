@@ -1,0 +1,40 @@
+{
+  "ProductList": [
+    {
+      "productName": "abc test 123",
+      "category": "dairyProduct",
+      "date": "2023-07-17T18:30:00.000Z",
+      "freshness": "Level1",
+      "price": 24,
+      "comments": "fresh",
+      "id": 1
+    },
+    {
+      "productName": "product 2",
+      "category": "grocery",
+      "date": "2023-07-18T18:30:00.000Z",
+      "freshness": "Level1",
+      "price": 32,
+      "comments": "test 2",
+      "id": 2
+    },
+    {
+      "productName": "product 3",
+      "category": "grocery",
+      "date": "2023-07-26T18:30:00.000Z",
+      "freshness": "Level2",
+      "price": 100,
+      "comments": "test product",
+      "id": 3
+    },
+    {
+      "productName": "product 4",
+      "category": "Cloths",
+      "date": "2023-07-30T18:30:00.000Z",
+      "freshness": "Level3",
+      "price": 2100,
+      "comments": "test product 2",
+      "id": 4
+    }
+  ]
+}
